@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/talkshow/*"
-  to = "/talkshow/index.html"
+  from = "/Talkshow/*"
+  to = "/Talkshow/index.html"
   status = 200
 
 [[redirects]]
