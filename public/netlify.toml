@@ -1,9 +1,0 @@
-[[redirects]]
-  from = "/Talkshow/*"
-  to = "/Talkshow/index.html"
-  status = 200
-
-[[redirects]]
-  from = "/seminar/*"
-  to = "/seminar/index.html"
-  status = 200
